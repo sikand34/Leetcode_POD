@@ -1,1 +1,1 @@
-This repository contains the everyday Problem of the day of Leetcode Platform.
+This repository contains the solution of everyday Problem of the day of Leetcode Platform.
